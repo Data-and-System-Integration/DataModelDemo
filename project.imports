@@ -26,7 +26,7 @@
         <type>java.util.ArrayList</type>
       </import>
       <import>
-        <type>com.myspace.npddatamodel</type>
+        <type>com.myspace.NpdDataModel</type>
       </import>
     </imports>
   </imports>
